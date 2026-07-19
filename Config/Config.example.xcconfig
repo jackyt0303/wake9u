@@ -1,0 +1,6 @@
+// Copy to Config/Config.Debug.xcconfig or Config/Config.Release.xcconfig.
+// Do not commit environment-specific values or any privileged server secrets.
+SUPABASE_URL = https://YOUR_PROJECT.supabase.co
+SUPABASE_ANON_KEY = YOUR_PUBLISHABLE_ANON_KEY
+SPOTIFY_CLIENT_ID = YOUR_SPOTIFY_CLIENT_ID
+WAKE9U_ENVIRONMENT = development
